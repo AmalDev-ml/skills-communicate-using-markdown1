@@ -5,3 +5,5 @@
 ##### heading 5
 ###### heading 6
 ###### Added some headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
